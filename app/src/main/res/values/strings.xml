@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">NFC Shift</string>
+    <string name="action_add">Add</string>
+    <string name="action_help">Help</string>
+    <string name="help_text">NFC Shift---添加，管理，使用你的NFC卡片\n\n\n
+                                                   1.添加新卡：将卡片靠近手机，自动刷入新卡信息，再修改卡片名称即可；也可以点击右上角，选择手动输入卡片信息。\n\n
+                                                   2.修改信息：长按卡片条目，在弹出的对话框修改卡片名称或TAG ID。\n\n
+                                                   3.删除卡片：长按卡片条目，在弹出的对话框左下角选择Delete。\n\n
+                                                   4.使用卡片：选择要使用的卡片，点击橙色按钮，即可使用手机来刷卡。\n\n\n
+                                                权限说明：\n
+                                                    1.ROOT权限，APP需要修改SYSTEM目录下的文件，必须具有ROOT授权。\n\n
+                                                    2.存储空间读写权限，APP需要使用存储空间来存放卡片信息。
+
+    </string>
+</resources>
