@@ -1,5 +1,5 @@
 ## NFCShift
-* A tool allows you use your phone emulating NFC cards
+* A tool allows you use your Android device as a NFC cards
 * 一个允许你使用具备NFC功能的Android设备模拟你的NFC卡片的APP。
 
 ##使用之前：
